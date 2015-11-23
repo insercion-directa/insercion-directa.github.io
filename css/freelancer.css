@@ -457,3 +457,32 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
+
+#definition{
+    font-size: 24px;
+    text-align: justify;
+}
+
+.title-vd{
+    text-align: center;
+}
+
+.list-vd{
+    font-size: 22px;
+}
+
+.clock{
+    display: block;
+    width: 50%;
+    margin: 80px auto 20px auto;
+    max-width: 300px;
+}
+
+.row-my{
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.table-case tr td{
+    padding: 20px 0;
+}
